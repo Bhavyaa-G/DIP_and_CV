@@ -33,4 +33,4 @@
 - Homography and Projective Geometry
 - Background Subtraction
 - Object Tracking using techniques like MeanShift, CamShift, Kalman Filters, SORT, and DeepSORT (it dint work)
-- Feature Discriptors (SIFT, SURF, ORB)
+- Feature Discriptors (SIFT, SURF, ORB) (SURF is patented so it needs a paid opencv library
